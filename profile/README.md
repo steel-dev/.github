@@ -1,14 +1,47 @@
-## Hi there 👋
+# Welcome to Steel
 
-Welcome to Steel's repo!
+![Steel Header](https://github.com/steel-dev/.github/blob/main/profile/github_hero.png)
 
-<!--
+<p align="center">
+  <i>Humans use Chrome, Agents use Steel.</i>
+</p>
+<h4 align="center">
+  <b><a href="https://app.steel.dev/sign-up">Get Started</a></b>
+  •
+  <a href="https://docs.steel.dev">Docs</a>
+  •
+  <a href="https://discord.gg/gPpvhNvc5R">Community</a>
+  •
+  <a href="https://app.steel.dev">Website</a>
+  </h4>
 
-**Here are some ideas to get you started:**
+Steel is an open-source browser API purpose-built for AI agents & apps. We make it easy to build AI applications that can effectively interact with the web.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**[Quickstart](https://docs.steel.dev/overview/sessions-api/quickstart)**
+
+## Why Steel?
+
+- 🚀 **Built for AI:** Purpose-built API and SDKs designed specifically for AI agents to interact with the web
+- 🔒 **Handle Cookies:** Easily reuse and save persistent cookies across sessions
+- ⚡️ **Dynamic Content Ready:** Execute JavaScript to handle modern web apps and client-side rendering
+- 💪 **Anti-Bot Protection:** Built-in rotating proxies, stealth configs, and CAPTCHA solving
+- 🛠 **Developer Friendly:** Debug with ease using live session viewers, replays, and embeddings
+
+## Getting Started
+
+- [Documentation](https://docs.steel.dev)
+- [Python SDK Reference](https://docs.steel.dev/overview/reference/python-sdk-reference)
+- [Node SDK Reference](https://docs.steel.dev/overview/reference/node-sdk-reference)
+- [API Reference](https://docs.steel.dev/api-reference)
+- [Cookbook](https://github.com/steel-dev/steel-cookbook)
+
+## Join the Community
+
+<div align='center'>
+<a href="https://twitter.com/steeldotdev" target="_blank">
+<img src="https://img.shields.io/badge/X (Twitter)-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/></a>
+<a href="https://github.com/steel-dev" target="_blank">
+<img src="https://img.shields.io/badge/github-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a>
+<a href="https://discord.gg/gPpvhNvc5R" target="_blank">
+<img src="https://img.shields.io/badge/discord-%2300acee.svg?color=6470F3&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/></a>
+</div>
