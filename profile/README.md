@@ -42,6 +42,6 @@ Steel is an open-source browser API purpose-built for AI agents & apps. We make 
 <img src="https://img.shields.io/badge/X (Twitter)-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/></a>
 <a href="https://github.com/steel-dev" target="_blank">
 <img src="https://img.shields.io/badge/github-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/></a>
-<a href="https://discord.gg/gPpvhNvc5R" target="_blank">
+<a href="https://discord.gg/steel-dev" target="_blank">
 <img src="https://img.shields.io/badge/discord-%2300acee.svg?color=6470F3&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/></a>
 </div>
