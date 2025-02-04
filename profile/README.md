@@ -10,7 +10,7 @@
   •
   <a href="https://docs.steel.dev">Docs</a>
   •
-  <a href="https://discord.gg/gPpvhNvc5R">Community</a>
+  <a href="https://discord.gg/steel-dev">Community</a>
   •
   <a href="https://app.steel.dev">Website</a>
   </h4>
