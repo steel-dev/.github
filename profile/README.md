@@ -30,8 +30,8 @@ Steel is an open-source browser API purpose-built for AI agents & apps. We make 
 ## Getting Started
 
 - [Documentation](https://docs.steel.dev)
-- [Python SDK Reference](https://docs.steel.dev/overview/reference/python-sdk-reference)
-- [Node SDK Reference](https://docs.steel.dev/overview/reference/node-sdk-reference)
+- [Python SDK Reference](https://github.com/steel-dev/steel-python)
+- [Node SDK Reference](https://github.com/steel-dev/steel-node)
 - [API Reference](https://docs.steel.dev/api-reference)
 - [Cookbook](https://github.com/steel-dev/steel-cookbook)
 
